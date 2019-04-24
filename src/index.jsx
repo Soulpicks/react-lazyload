@@ -307,7 +307,7 @@ LazyLoad.defaultProps = {
   once: false,
   offset: 0,
   overflow: false,
-  resize: false,
+  resize: true,
   scroll: true,
   unmountIfInvisible: false
 };
